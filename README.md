@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 💫 About Me:
-👋 Hi, I’m @lavneethora<br>🔭 I’m currently working on Password Manager GUI App<br>
+👋 Hi, I’m @lavneethora<br>🔭
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lavneet_hora?igsh=NHZrazg4eXJ6aTF0&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lavneethora/) 
