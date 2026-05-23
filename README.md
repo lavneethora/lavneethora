@@ -56,5 +56,8 @@
 **[Quantum Chess](https://github.com/JoshuaLongoria/Quantum-Chess)** — Contributor | CS 4331 Quantum Computing @ TTU
 > Chess with real quantum mechanics — superposition, entanglement, and measurement via Qiskit circuits on IBM hardware. Built the UI system, game flow, and quantum move validation.
 
+**[bob-onboard](https://github.com/lavneethora/bob-onboard)** — IBM Bob Hackathon
+> Custom IBM Bob mode that turns any unfamiliar Python research codebase into structured onboarding documentation in minutes. Demoed on IBM's 5.9k-star Adversarial Robustness Toolbox.
+
 **[Football Kick Analyzer](https://github.com/lavneethora)** — IEEE Career Catalyst Program, demoed to Qualcomm
 > Computer vision on embedded hardware (Rubik Pi 3) using YOLOv8 + Kalman filtering for real-time trajectory reconstruction. Custom dataset of 3,000+ images published on Kaggle.
