@@ -55,7 +55,7 @@ One of 10 inaugural recipients selected by IEEE CS — [about the scholarship](h
 **[AI Student Assistant Chatbot](https://github.com/lavneethora)** — Won AMD Ryzen AI Track @ HackCU12
 > Full-stack RAG chatbot using DeepSeek with quantization and fine-tuning, answering student queries from the UC Boulder handbook. Built in a 24-hour sprint.
 
-**[Ceremoni](https://github.com/lavneethora/ceremoni)** — AI-powered graduation name pronunciation @ Texas Tech
+**[Ceremoni](https://github.com/lavneethora/ceremoni)** — AI-powered graduation name pronunciation system
 > Students submit voice recordings via Microsoft Forms. An AI pipeline (GPT-audio + Azure TTS) processes each one into ceremony-ready audio so every graduate's name is pronounced correctly.
 
 **[RaiderRating](https://github.com/lavneethora/RaiderRating)** — [Published on Chrome Web Store](https://chromewebstore.google.com/detail/raiderrating/mfkadoinfgjghmfooigphelfpdicdfek)
