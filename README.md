@@ -22,11 +22,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lavneethora&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavneethora&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" />&nbsp;&nbsp;
