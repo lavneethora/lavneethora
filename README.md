@@ -16,8 +16,8 @@
 
 One of 10 inaugural recipients selected by IEEE CS — [about the scholarship](https://www.computer.org/volunteering/awards/scholarships/career-catalyst) · [press coverage](https://www.hpcwire.com/off-the-wire/ieee-computer-society-announces-recipients-of-inaugural-career-catalyst-scholarship/)
 
-- Building AI tools for students — from name pronunciation at graduation to professor ratings during registration
-- Incoming research assistant @ UTHealth Houston working on cancer genomics
+- Incoming AI/ML research intern @ UTHealth Houston working on cancer and Alzheimer's
+- Past GenAI Intern @ iMocha
 - Hacker Experience Lead @ HackWesTX | GDG Officer @ Texas Tech
 
 ---
