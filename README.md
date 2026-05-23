@@ -15,19 +15,15 @@
 **[IEEE Computer Society Career Catalyst Scholar](https://www.computer.org/publications/tech-news/insider-membership-news/2025-career-catalyst-recipients)** | Minor in Math & Bioengineering | 3.97 GPA
 
 - One of 10 inaugural recipients selected by IEEE CS — [about the scholarship](https://www.computer.org/volunteering/awards/scholarships/career-catalyst) · [press coverage](https://www.hpcwire.com/off-the-wire/ieee-computer-society-announces-recipients-of-inaugural-career-catalyst-scholarship/)
-- Incoming AI/ML Research Intern @ UTHealth Houston
+- Incoming AI/ML research intern @ UTHealth Houston working on cancer and Alzheimer's
 - Past GenAI Intern @ iMocha
-- GDG Officer @ Texas Tech | Hacker Experience Lead @ HackWesTX 2025
+- Hacker Experience Lead @ HackWesTX | GDG Officer @ Texas Tech
 
 ---
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lavneethora&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavneethora&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lavneethora&theme=tokyonight&hide_border=true&background=00000000" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lavneethora&theme=tokyo-night&hide_border=true&bg_color=00000000" width="95%" />
 </p>
 
 <p align="center">
@@ -46,7 +42,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" height="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/qiskit/6929C4" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="40" />
 </p>
 
 ---
