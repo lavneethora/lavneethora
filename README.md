@@ -22,6 +22,13 @@ One of 10 inaugural recipients selected by IEEE CS — [about the scholarship](h
 
 ---
 
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lavneethora&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavneethora&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=lavneethora&theme=tokyonight&hide_border=true&background=00000000" height="165" />
@@ -66,3 +73,38 @@ One of 10 inaugural recipients selected by IEEE CS — [about the scholarship](h
 
 **[Football Kick Analyzer](https://github.com/lavneethora)** — IEEE Career Catalyst Program, demoed to Qualcomm
 > Computer vision on embedded hardware (Rubik Pi 3) using YOLOv8 + Kalman filtering for real-time trajectory reconstruction. Custom dataset of 3,000+ images published on Kaggle.
+
+---
+
+<details>
+<summary><h3>More About Me</h3></summary>
+<br>
+
+**Experience**
+
+| Role | Organization | When |
+|------|-------------|------|
+| Undergraduate Research Assistant | UTHealth Houston, BIG-TCR Program | Summer 2026 (Incoming) |
+| Undergraduate Research Assistant | Texas Tech, Dept. of ECE | May – Oct 2025 |
+| GenAI Intern | iMocha | Summer 2025 |
+
+**Leadership**
+
+| Role | Organization |
+|------|-------------|
+| Hacker Experience Lead | HackWesTX, Texas Tech |
+| Officer | Google Developers Group, Texas Tech |
+| FYE Mentor | TTU Honors College |
+| LYFE Mentor | TTU College of Engineering |
+| Learning Assistant | Texas Tech University |
+
+</details>
+
+---
+
+<!-- Snake Contribution Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lavneethora/lavneethora/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lavneethora/lavneethora/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/lavneethora/lavneethora/output/github-snake.svg" />
+</picture>
