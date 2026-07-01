@@ -51,7 +51,7 @@
 > Students submit voice recordings via Microsoft Forms. An AI pipeline (GPT-audio + Azure TTS) processes each one into ceremony-ready audio so every graduate's name is pronounced correctly.
 
 **[RaiderRating](https://github.com/lavneethora/RaiderRating)** — [Published on Chrome Web Store](https://chromewebstore.google.com/detail/raiderrating/mfkadoinfgjghmfooigphelfpdicdfek)
-> Chrome extension that injects Rate My Professors ratings directly into TTU's Visual Schedule Builder. No more tab-switching during registration.
+> Chrome extension that injects Rate My Professors ratings and grade distribution directly into TTU's Visual Schedule Builder. No more tab-switching during registration.
 
 **[Quantum Chess](https://github.com/JoshuaLongoria/Quantum-Chess)** — Contributor | CS 4331 Quantum Computing @ TTU
 > Chess with real quantum mechanics — superposition, entanglement, and measurement via Qiskit circuits on IBM hardware. Built the UI system, game flow, and quantum move validation.
