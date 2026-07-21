@@ -15,8 +15,8 @@
 **[IEEE Computer Society Career Catalyst Scholar](https://www.computer.org/publications/tech-news/insider-membership-news/2025-career-catalyst-recipients)** | Minor in Math & Bioengineering | 3.97 GPA
 
 - One of 10 inaugural recipients selected by IEEE CS — [about the scholarship](https://www.computer.org/volunteering/awards/scholarships/career-catalyst) · [press coverage](https://www.hpcwire.com/off-the-wire/ieee-computer-society-announces-recipients-of-inaugural-career-catalyst-scholarship/)
-- Incoming AI/ML research intern @ UTHealth Houston
-- Past GenAI Intern @ iMocha
+- AI/ML Research Intern @ UTHealth Houston (Summer 2026)
+- Past GenAI Intern @ iMocha (Summer 2025)
 - Hacker Experience Lead @ HackWesTX | GDG Officer @ Texas Tech
 
 ---
