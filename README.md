@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lavneethora"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://lavneethora.github.io/lavneethora/resume.pdf?v=2"><img src="https://img.shields.io/badge/Resume-222222?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume" /></a>&nbsp;
+  <a href="https://lavneethora.github.io/lavneethora/resume.pdf?v=3"><img src="https://img.shields.io/badge/Resume-222222?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume" /></a>&nbsp;
   <a href="mailto:31lavneet@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
