@@ -61,6 +61,3 @@
 
 **[Quantum Chess](https://github.com/JoshuaLongoria/Quantum-Chess)** - Contributor | CS 4331 Quantum Computing @ TTU
 > Chess with real quantum mechanics - superposition, entanglement, and measurement via Qiskit circuits on IBM hardware. Built the UI system, game flow, and quantum move validation.
-
-**[bob-onboard](https://github.com/lavneethora/bob-onboard)** - IBM Bob Hackathon
-> Custom IBM Bob mode that turns any unfamiliar Python research codebase into structured onboarding documentation in minutes. Demoed on IBM's 5.9k-star Adversarial Robustness Toolbox.
