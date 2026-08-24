@@ -50,6 +50,9 @@
 **[Ceremoni](https://github.com/lavneethora/ceremoni)** - AI-powered graduation name pronunciation system
 > Students submit voice recordings via Microsoft Forms. An AI pipeline (GPT-audio + Azure TTS) processes each one into ceremony-ready audio so every graduate's name is pronounced correctly.
 
+**[Nudge](https://nudgeme.app)** - Live product (Google OAuth verification in progress)
+> SMS-based reminders that text you before your subscription free trials convert to paid, so you never get charged for something you forgot to cancel.
+
 **[RaiderRating](https://github.com/lavneethora/RaiderRating)** - [Published on Chrome Web Store](https://chromewebstore.google.com/detail/raiderrating/mfkadoinfgjghmfooigphelfpdicdfek)
 > Chrome extension that injects Rate My Professors ratings and grade distribution directly into TTU's Visual Schedule Builder. No more tab-switching during registration.
 
