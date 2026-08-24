@@ -44,20 +44,20 @@
 
 ### Hackathons & Projects
 
-**[AI Student Assistant Chatbot](https://github.com/lavneethora)** — Won AMD Ryzen AI Track @ HackCU12
+**[AI Student Assistant Chatbot](https://github.com/lavneethora)** - Won AMD Ryzen AI Track @ HackCU12
 > Full-stack RAG chatbot using DeepSeek with quantization and fine-tuning, answering student queries from the UC Boulder handbook. Built in a 24-hour sprint.
 
-**[Ceremoni](https://github.com/lavneethora/ceremoni)** — AI-powered graduation name pronunciation system
+**[Ceremoni](https://github.com/lavneethora/ceremoni)** - AI-powered graduation name pronunciation system
 > Students submit voice recordings via Microsoft Forms. An AI pipeline (GPT-audio + Azure TTS) processes each one into ceremony-ready audio so every graduate's name is pronounced correctly.
 
-**[RaiderRating](https://github.com/lavneethora/RaiderRating)** — [Published on Chrome Web Store](https://chromewebstore.google.com/detail/raiderrating/mfkadoinfgjghmfooigphelfpdicdfek)
+**[RaiderRating](https://github.com/lavneethora/RaiderRating)** - [Published on Chrome Web Store](https://chromewebstore.google.com/detail/raiderrating/mfkadoinfgjghmfooigphelfpdicdfek)
 > Chrome extension that injects Rate My Professors ratings and grade distribution directly into TTU's Visual Schedule Builder. No more tab-switching during registration.
 
-**[Quantum Chess](https://github.com/JoshuaLongoria/Quantum-Chess)** — Contributor | CS 4331 Quantum Computing @ TTU
+**[Quantum Chess](https://github.com/JoshuaLongoria/Quantum-Chess)** - Contributor | CS 4331 Quantum Computing @ TTU
 > Chess with real quantum mechanics — superposition, entanglement, and measurement via Qiskit circuits on IBM hardware. Built the UI system, game flow, and quantum move validation.
 
-**[bob-onboard](https://github.com/lavneethora/bob-onboard)** — IBM Bob Hackathon
+**[bob-onboard](https://github.com/lavneethora/bob-onboard)** - IBM Bob Hackathon
 > Custom IBM Bob mode that turns any unfamiliar Python research codebase into structured onboarding documentation in minutes. Demoed on IBM's 5.9k-star Adversarial Robustness Toolbox.
 
-**[Football Kick Analyzer](https://ai-football-kick-analyze-qvkco3k.gamma.site/)** — IEEE Career Catalyst Program, demoed to Qualcomm
+**[Football Kick Analyzer](https://ai-football-kick-analyze-qvkco3k.gamma.site/)** - IEEE Career Catalyst Program, demoed to Qualcomm
 > Computer vision on embedded hardware (Rubik Pi 3) using YOLOv8 + Kalman filtering for real-time trajectory reconstruction. Custom dataset of 3,000+ images published on Kaggle.
