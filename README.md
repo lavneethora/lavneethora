@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lavneethora"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://lavneethora.github.io/lavneethora/resume.pdf?v=5"><img src="https://img.shields.io/badge/Resume-222222?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume" /></a>&nbsp;
+  <a href="https://lavneethora.github.io/lavneethora/resume.pdf?v=6"><img src="https://img.shields.io/badge/Resume-222222?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume" /></a>&nbsp;
   <a href="mailto:31lavneet@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -52,6 +52,9 @@
 
 **[RaiderRating](https://github.com/lavneethora/RaiderRating)** - [Published on Chrome Web Store](https://chromewebstore.google.com/detail/raiderrating/mfkadoinfgjghmfooigphelfpdicdfek)
 > Chrome extension that injects Rate My Professors ratings and grade distribution directly into TTU's Visual Schedule Builder. No more tab-switching during registration.
+
+**[FindMySpot](https://github.com/lavneethora/FindMySpot)** - Won Best .Tech Domain Name @ HackWesTX VII
+> Turns an existing fixed parking camera into a live occupancy map with routing along real driving lanes. YOLO11m detection, WebSocket state updates, and a TimescaleDB analytics pipeline.
 
 **[AI Student Assistant Chatbot](https://github.com/lavneethora)** - Won AMD Ryzen AI Track @ HackCU12
 > Full-stack RAG chatbot using DeepSeek with quantization and fine-tuning, answering student queries from the UC Boulder handbook. Built in a 24-hour sprint.
