@@ -15,7 +15,7 @@
 **[IEEE Computer Society Career Catalyst Scholar](https://www.computer.org/publications/tech-news/insider-membership-news/2025-career-catalyst-recipients)** | Minor in Math & Bioengineering | 3.94 GPA
 
 - One of 10 inaugural recipients selected by IEEE CS - [about the scholarship](https://www.computer.org/volunteering/awards/scholarships/career-catalyst) · [press coverage](https://www.hpcwire.com/off-the-wire/ieee-computer-society-announces-recipients-of-inaugural-career-catalyst-scholarship/)
-- Won the MLH Best .Tech Domain Name track @ HackWesTX VII (2026) with [FindMySpot](https://github.com/lavneethora/FindMySpot)
+- Won an MLH track @ HackWesTX VII (2026) with [FindMySpot](https://github.com/lavneethora/FindMySpot)
 - Past Intern @ UTHealth Houston (Summer 2026)
 - Past Intern @ iMocha (Summer 2025)
 - Hacker Experience Lead @ HackWesTX | Officer @  Google Developers Group (Texas Tech)
