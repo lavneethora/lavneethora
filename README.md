@@ -18,6 +18,7 @@
 - Won an MLH track @ HackWesTX VII (2026) with [FindMySpot](https://github.com/lavneethora/FindMySpot)
 - Past Intern @ UTHealth Houston (Summer 2026)
 - Past Intern @ iMocha (Summer 2025)
+- Won AMD Ryzen AI Track @ HackCU12
 - Hacker Experience Lead @ HackWesTX | Officer @  Google Developers Group (Texas Tech)
 
 ---
