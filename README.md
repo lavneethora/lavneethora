@@ -54,7 +54,7 @@
 **[RaiderRating](https://github.com/lavneethora/RaiderRating)** - [Published on Chrome Web Store](https://chromewebstore.google.com/detail/raiderrating/mfkadoinfgjghmfooigphelfpdicdfek)
 > Chrome extension that injects Rate My Professors ratings and grade distribution directly into TTU's Visual Schedule Builder. No more tab-switching during registration.
 
-**[FindMySpot](https://github.com/lavneethora/FindMySpot)** - Won Best .Tech Domain Name @ HackWesTX VII
+**[FindMySpot](https://github.com/lavneethora/FindMySpot)** - Won MLH sponsored Track @ HackWesTX VII
 > Turns an existing fixed parking camera into a live occupancy map with routing along real driving lanes. YOLO11m detection, WebSocket state updates, and a TimescaleDB analytics pipeline.
 
 **[AI Student Assistant Chatbot](https://github.com/lavneethora)** - Won AMD Ryzen AI Track @ HackCU12
